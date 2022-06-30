@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32627.527
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiphyCommandBot", "GiphyCommandBot\GiphyCommandBot.csproj", "{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EC1303-A000-4F01-93B0-AD4F0CC2E3DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C802AF86-F7D0-4AA5-BFA6-B2F32A44A10B}
+	EndGlobalSection
+EndGlobal
